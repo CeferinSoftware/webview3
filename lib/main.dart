@@ -51,7 +51,7 @@ class _WebViewScreenState extends State<WebViewScreen> {
           onPageFinished: (url) => setState(() => isLoading = false),
         ),
       )
-      ..loadRequest(Uri.parse('https://pokewoke.store'));
+      ..loadRequest(Uri.parse('https://kannasol.xyz/'));
   }
 
   @override
