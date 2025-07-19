@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Kannasol',
+      title: 'Kannasolzxc',
       theme: ThemeData(
         primarySwatch: Colors.blue,
         colorScheme: ColorScheme.fromSeed(
@@ -58,7 +58,7 @@ class _WebViewScreenState extends State<WebViewScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Kannasol'),
+        title: Text('Kannasolzxc'),
         backgroundColor: Color.fromRGBO(33, 150, 243, 1),
         foregroundColor: Colors.white,
         actions: [
